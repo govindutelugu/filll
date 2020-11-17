@@ -1,0 +1,13 @@
+com/google/vo/UserVo.class
+com/google/filter/FilterApplication.class
+com/google/vo/UserRoles.class
+com/google/vo/PrivilegeResponseVo.class
+com/google/vo/AppRoles.class
+com/google/vo/PrivilegeVo.class
+com/google/filter/AppController.class
+com/google/dao/PrivilegesMapping.class
+com/google/filter/ResponseObject.class
+com/google/filter/LoggerMessage.class
+com/google/filter/AuthenticationFilter.class
+com/google/vo/PrivilegesVo.class
+com/google/connection/DBConnectionObject.class

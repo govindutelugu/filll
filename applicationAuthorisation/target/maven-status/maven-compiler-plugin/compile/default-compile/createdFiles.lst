@@ -1,0 +1,17 @@
+com/google/authorisation/OtherFilter.class
+com/google/dao/MysqlDataObject.class
+com/google/vo/UserVo.class
+com/google/authorisation/AuthenticationFilter.class
+com/google/authorisation/Welcome.class
+com/google/authorisation/ByeController.class
+com/google/vo/UserRoles.class
+com/google/authorisation/ApplicationAuthorisation.class
+com/google/vo/PrivilegeResponseVo.class
+com/google/vo/AppRoles.class
+com/google/vo/PrivilegeVo.class
+com/google/authorisation/UserRolesController.class
+com/google/dao/PrivilegesMapping.class
+com/google/vo/ResponseObject.class
+com/google/authorisation/UserPrivilegeGroupsController.class
+com/google/vo/PrivilegesVo.class
+com/google/connection/DBConnectionObject.class
